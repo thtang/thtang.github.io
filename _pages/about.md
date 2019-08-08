@@ -23,3 +23,6 @@ About me
 <img src='/images/tsmc.jpg' width='100'>
 <img src='/images/Emblem72.jpg' width='100'>
 <img src='/images/sign2-032a.png' width='100'>
+
+[Curriculum Vitae](http://thtang.github.io/files/Jason_Tang_Resume.pdf) [Latest update: 2019/08] 
+Contact me: thtang@nlg.csie.ntu.edu.tw
