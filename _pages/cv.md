@@ -38,6 +38,7 @@ Skills
 * Simulation
 * Deep learning for Natural Language Processing
 * Deep learning for Computer Vision
+* Information Retrieval
 
 Publications
 ======
