@@ -24,3 +24,5 @@ Some examples of ADL concepts: "Commuting (to work or another common venue)", "T
 The participants have to retrieve a number of specific moments in a lifelogger's life. We define moments as semantic events, or activities that happened throughout the day. For example, they should return the relevant moments for the query “Find the moment(s) when I was shopping for wine in the supermarket.” Particular attention should be paid to the diversification of the selected moments with respect to the target scenario.
 
 The ground truth for this subtask was created using manual annotation.
+
+<img src='/images/CLEF_result.png' width='600'>
