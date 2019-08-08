@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching assistant"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "National Taiwan University, Department of Computer Science and Information Engineering"
+date: 2019
+location: "Taipei, Taiwan"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Teaching Assistant of NLP course (CSIE 5042)
+* Design and correct term project
