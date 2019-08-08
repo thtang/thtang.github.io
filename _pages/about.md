@@ -18,5 +18,6 @@ redirect_from:
 
 About me
 ======
-<img src='/images/HSNU.png' width='300'>
-<img src='/images/The_Logo_of_National_Tsing_Hua_University.png' width='300'>
+<img src='/images/HSNU.png' width='100'>
+<img src='/images/The_Logo_of_National_Tsing_Hua_University.png' width='100'>
+<img src='/images/Emblem72.jpg' width='100'>
