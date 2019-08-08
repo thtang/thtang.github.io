@@ -38,12 +38,10 @@ Skills
 * Programming Language:
   * Python
   * R
-
 * Research:
  * Deep learning for Natural Language Processing
  * Deep learning for Computer Vision
-
-Hobby: 
+* For fun: 
   * Simulation
   * Information Retrieval
 
