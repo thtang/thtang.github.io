@@ -89,7 +89,7 @@ author:
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://www.kaggle.com/r06946003"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -98,7 +98,7 @@ author:
   foursquare       :
   github           : "thtang"
   google_plus      :
-  kaggle           : "https://www.kaggle.com/r06946003"
+  keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
