@@ -9,10 +9,10 @@ Deep convolutional neural networks have been widely adopted in various applicati
 # About the Task:
 In this task, we have to plot bounding boxes for each disease finding in a single chest X-ray without goundtruth (X, Y, width, height) in training set. The task description is detailed in [PDF1](https://www.csie.ntu.edu.tw/~yvchen/f106-adl/doc/HTCIntro.pdf) and [PDF2](https://www.csie.ntu.edu.tw/~yvchen/f106-adl/doc/HTCMedical.pdf). Our work flow could be summarized as <br/><img src='/images/process_flow.png'>"
 
-Github project page: https://github.com/thtang/CheXNet-with-localization
+Github project page: [link](https://github.com/thtang/CheXNet-with-localization)
 
-Experiment report: https://thtang.github.io/files/HTC_report.pdf
+Experiment report: [link](https://thtang.github.io/files/HTC_report.pdf)
 
-Related media: https://ec.ltn.com.tw/article/breakingnews/2459276
+Related media: [link](https://ec.ltn.com.tw/article/breakingnews/2459276)
 
-Results: <img src='/images/68324796_2975049849188472_6208369264953393152_n.jpg' width='400'>
+Results: <img src='/images/68324796_2975049849188472_6208369264953393152_n.jpg' width='450'>
