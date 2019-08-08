@@ -25,4 +25,4 @@ The participants have to retrieve a number of specific moments in a lifelogger's
 
 The ground truth for this subtask was created using manual annotation.
 
-<img src='/images/CLEF_result.png' width='600'>
+<img src='/images/CLEF_result.png'>
