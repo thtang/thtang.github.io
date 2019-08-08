@@ -39,8 +39,8 @@ Skills
   * Python
   * R
 * Research:
- * Deep learning for Natural Language Processing
- * Deep learning for Computer Vision
+  * Deep learning for Natural Language Processing
+  * Deep learning for Computer Vision
 * For fun: 
   * Simulation
   * Information Retrieval
