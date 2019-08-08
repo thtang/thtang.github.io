@@ -1,6 +1,6 @@
 ---
 title: "CLEF 2018 Activities of Daily Living understanding (ADLT)"
-excerpt: "The project aims at designing search algorithms to retrieval personal photos given text query. The work has been published in CLEF 2018 with title [Visual Concept Selection with Textual Knowledge for Understanding Activities of Daily Living and Life Moment Retrieval](http://ceur-ws.org/Vol-2125/paper_124.pdf). For the details of the project, please refer to [the official pages](https://www.imageclef.org/2018/lifelog.)<br/><img src='/images/clef_logo.jpg' width='500'>"
+excerpt: "The project aims at designing search algorithms to retrieval personal photos given text query. The work has been published in CLEF 2018 with title [Visual Concept Selection with Textual Knowledge for Understanding Activities of Daily Living and Life Moment Retrieval](http://ceur-ws.org/Vol-2125/paper_124.pdf). For the details of the project, please refer to [the official pages](https://www.imageclef.org/2018/lifelog).<br/><img src='/images/clef_logo.jpg' width='500'>"
 collection: portfolio
 ---
 # Background:
