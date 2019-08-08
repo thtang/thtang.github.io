@@ -13,4 +13,4 @@ In this task, we have to plot bounding boxes for each disease finding in a singl
 * Experiment report: [[**link**]](https://thtang.github.io/files/HTC_report.pdf)
 * Related media: [[**link**]](https://ec.ltn.com.tw/article/breakingnews/2459276)
 
-<img src='/images/68324796_2975049849188472_6208369264953393152_n.jpg' width='450'>
+<img src='/images/68324796_2975049849188472_6208369264953393152_n.jpg' width='500'>
