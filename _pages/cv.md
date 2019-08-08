@@ -11,8 +11,10 @@ redirect_from:
 
 Education
 ======
-* M.S. in Data Science, College of Electrical Engineering and Computer Science, National Taiwan University (國立台灣大學), 2019
-* B.S. in Industrial Engineering, College of Engineering, National Tsing University (國立清華大學), 2017
+* M.S. in Data Science
+  * College of Electrical Engineering and Computer Science, National Taiwan University (國立台灣大學), 2019
+* B.S. in Industrial Engineering
+  * College of Engineering, National Tsing University (國立清華大學), 2017
 
 Work experience
 ======
