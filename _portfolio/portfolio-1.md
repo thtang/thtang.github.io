@@ -19,3 +19,5 @@ The challenge asks participants to predict the probability that each user finish
 We use AUC (area under ROC curve) as our challenge metric. The higher the AUC, the higher the ranking.
 
 For our published paper, please refer to [Publication](https://thtang.github.io/publication/2009-10-01-paper-title-number-1)
+
+<img src='/images/66585154_547213409142730_1102264517129142272_n.jpg' width='300'>
