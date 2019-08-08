@@ -22,4 +22,4 @@ About me
 <img src='/images/logo_inventec.png' width='100'>
 <img src='/images/tsmc.jpg' width='100'>
 <img src='/images/Emblem72.jpg' width='100'>
-<img src='/images/sign2-032a.jpg' width='100'>
+<img src='/images/sign2-032a.png' width='100'>
