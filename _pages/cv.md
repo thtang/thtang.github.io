@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Data Science, National Taiwan University, 2019
-* B.S. in Industrial Engineering, National Tsing University, 2017
+* M.S. in Data Science, College of Electrical Engineering and Computer Science, National Taiwan University (國立台灣大學), 2019
+* B.S. in Industrial Engineering, College of Engineering, National Tsing University (國立清華大學), 2017
 
 Work experience
 ======
@@ -22,7 +22,7 @@ Work experience
   * Supervisor: Dr. Fang-Fang Wang
 
 * 2017-2018: Research Assistant
-  * Academia Sinica, Taiwan
+  * Academia Sinica (中央研究院), Taiwan
   * Research interests: Data Mining, Information Retrieval, and Natural Language Processing using DeepLearning
   * Supervisor: [Dr. Sheng-wei Chen](https://www.iis.sinica.edu.tw/pages/swc/index_en.html)
 
