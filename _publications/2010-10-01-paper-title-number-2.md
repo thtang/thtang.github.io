@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Visual Concept Selection with Textual Knowledge for Understanding Activities of Daily Living and Life Moment Retrieval"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'This paper presents our approach to the task of ImageCLEFlifelog 2018. Two subtasks, activities of daily living understanding (ADLT) and life moment retrieval (LMRT) are addressed. We attempt to reduce the user involvement during the retrieval stage by using natural language processing technologies. The two subtasks are conducted with dedicated pipelines, while similar methodology is shared. We first obtain visual concepts from the images with a wide range of computer vision tools and propose a concept selection method to prune the noisy concepts with word embeddings in which textual knowledge is inherent. For ADLT, the retrieved images of a given topic are sorted by time, and the frequency and duration are further calculated. For LMRT, the retrieval is based on the ranking of similarity between image concepts and user queries. In terms of the performance, our systems achieve 47.87% of percentage dissimilarity in ADLT and 39.5% of F1@10 in LMRT.'
+date: 2018-09-10
+venue: 'CLEF'
+paperurl: 'http://ceur-ws.org/Vol-2125/paper_124.pdf'
+citation: 'Tsun-Hsien Tang, Min-Huan Fu, Hen-Hsen Huang, Kuan-Ta Chen and Hsin-Hsi Chen (2018). “Visual Concept Selection with Textual Knowledge for Understanding Activities of Daily Living and Life Moment Retrieval.” In Working Notes of Conference and Labs of the Evaluation Forum (CLEF 2018), Avignon, France, 10-14 September 2018.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+This paper presents our approach to the task of ImageCLEFlifelog 2018. Two subtasks, activities of daily living understanding (ADLT) and life moment retrieval (LMRT) are addressed. We attempt to reduce the user involvement during the retrieval stage by using natural language processing technologies. The two subtasks are conducted with dedicated pipelines, while similar methodology is shared. We first obtain visual concepts from the images with a wide range of computer vision tools and propose a concept selection method to prune the noisy concepts with word embeddings in which textual knowledge is inherent. For ADLT, the retrieved images of a given topic are sorted by time, and the frequency and duration are further calculated. For LMRT, the retrieval is based on the ranking of similarity between image concepts and user queries. In terms of the performance, our systems achieve 47.87% of percentage dissimilarity in ADLT and 39.5% of F1@10 in LMRT.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://ceur-ws.org/Vol-2125/paper_124.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Tsun-Hsien Tang, Min-Huan Fu, Hen-Hsen Huang, Kuan-Ta Chen and Hsin-Hsi Chen (2018). “Visual Concept Selection with Textual Knowledge for Understanding Activities of Daily Living and Life Moment Retrieval.” In Working Notes of Conference and Labs of the Evaluation Forum (CLEF 2018), Avignon, France, 10-14 September 2018..
