@@ -5,7 +5,7 @@ collection: portfolio
 ---
 ICME2019 & Bytedance Inc. • $20,000 • 1028 teams • 2433 participants
 
-# Background
+# Background:
 
 In recent years, deep learning has made great progress in several fundamental tasks such as image recognition and speech recognition, but there are still many problems to be explored in the field of video content understanding.
 The TikTok (Douyin overseas edition) APP, a product of Bytedance and a short video social platform powered by music, has received wide acclaim from users around the world. Therefore, the understanding and recommendation technology of short video has been the focus of our Bytedance's attention.
@@ -13,7 +13,7 @@ A picture is worth thousands of words. One picture contains a large amount of in
 This challenge provides multi-modal video features, including visual features, text features, and audio features, as well as user interactive behavior data, such as click, like, and follow. Each participant needs to model the user's interest through video features and user interaction behavior data set, and then predict the user's click behavior on another video dataset. 
 The leaderboard will use the method which is described on the evaluation webpage to score the results submitted by the participants.
 
-# Task
+# About the Task:
  
 The challenge asks participants to predict the probability that each user finishes watching and likes a given video of test dataset.
 We use AUC (area under ROC curve) as our challenge metric. The higher the AUC, the higher the ranking.
