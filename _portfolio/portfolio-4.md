@@ -1,6 +1,6 @@
 ---
 title: "NTU-HTC Deep Learning Competition: Weakly Supervised Learning for Findings Detection in Medical Images"
-excerpt: "In this task, we have to plot bounding boxes for each disease finding in a single chest X-ray without goundtruth (X, Y, width, height) in training set. The task description is detailed in [PDF 1](https://www.csie.ntu.edu.tw/~yvchen/f106-adl/doc/HTCIntro.pdf) and [PDF 2](https://www.csie.ntu.edu.tw/~yvchen/f106-adl/doc/HTCMedical.pdf). Our work flow could be summarized as <br/><img src='https://github.com/thtang/CheXNet-with-localization/blob/master/output/process_flow.png' width='500'>"
+excerpt: "In this task, we have to plot bounding boxes for each disease finding in a single chest X-ray without goundtruth (X, Y, width, height) in training set. The task description is detailed in [PDF 1](https://www.csie.ntu.edu.tw/~yvchen/f106-adl/doc/HTCIntro.pdf) and [PDF 2](https://www.csie.ntu.edu.tw/~yvchen/f106-adl/doc/HTCMedical.pdf). Our work flow could be summarized as <br/><img src='/images/process_flow.png' width='500'>"
 collection: portfolio
 ---
 # Background:
