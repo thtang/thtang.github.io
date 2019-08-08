@@ -67,6 +67,6 @@ Honor
 ======
 * IEEE ICME Grand Challenge $3^{rd}$ prize (2019)
 * [ACM SIGIR Student Travel Grant](https://sigir.org/general-information/travel-grants/) (2018) 
-* Three Presidential Awards (Top 5%) 2013-2017
+* Three Presidential Awards 書卷獎 (Top 5%) (2013-2017)
 * Conference of Chinese Institute of Industrial Engineers - Student Paper Contest [1st prize](http://www.ie.nthu.edu.tw/files/13-1267-120141-1.php?Lang=zh-tw) (2017)
 * Hui-Chun Chin and Tsung-Dao Lee Chinese Undergraduate Research Endowment 秦惠莙与李政道中国大学生见习进修基金 (Top 1%) (2015)
