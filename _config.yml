@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Jason Tang"
-  avatar           : "https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.0-9/52029281_2263156400415988_8204409823475793920_n.jpg?_nc_cat=105&_nc_oc=AQklAcLdvxtM6YQhf6jxoWDg52IA_XujlOAVwOkbX5SjdLgo8_CNgcS4lEhqMMCzZtmzJXC4H5t8RbLt4J4R8mcp&_nc_ht=scontent.ftpe8-1.fna&oh=ddbdf8b67d811610ae2d2afd932ec8ef&oe=5DE1F96C"
+  avatar           : 
   bio              : "Data Science Graduate student in National Taiwan University & Academia Sinica"
   location         : "Taipei, Taiwan"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/th-tang/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
