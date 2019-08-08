@@ -1,7 +1,7 @@
 ---
 title: "ACM WSDM Cup 2019 - Fake News Classification"
 excerpt: "
-WSDM is one of the premier conferences on web-inspired research involving search and data mining. One of the task in WSDM Cup 2019 is to detect the fake news. Given the title of a fake news article A and the title of a coming news article B, participants are asked to classify B into one of the three categories. My method is ranked *6/8 (public/private)* among *94* teams from all over the world. [See Kaggle competition](https://www.kaggle.com/c/fake-news-pair-classification-challenge)<br/><img src='/images/WSDMCUP.png'>"
+WSDM is one of the premier conferences on web-inspired research involving search and data mining. One of the task in WSDM Cup 2019 is to detect the fake news. Given the title of a fake news article A and the title of a coming news article B, participants are asked to classify B into one of the three categories. My method is ranked *6/8 (public/private)* among *94* teams from all over the world. [See Kaggle competition](https://www.kaggle.com/c/fake-news-pair-classification-challenge)<br/><img src='/images/WSDMCUP.png' width="500">"
 collection: portfolio
 ---
 # Background:
