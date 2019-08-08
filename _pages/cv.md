@@ -53,6 +53,10 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Honor
 ======
-* Currently signed in to 43 different slack teams
+* IEEE ICME Grand Challenge $3^{rd}$ prize (2019)
+* ACM SIGIR Student Travel Grant (2018) 
+* Three Presidential Awards (Top 5%) 2013-2017
+* Conference of Chinese Institute of Industrial Engineers - Student Paper Contest 1st prize (2017)
+* Hui-Chun Chin and Tsung-Dao Lee Chinese Undergraduate Research Endowment 秦惠莙与李政道中国大学生见习进修基金 (Top 1%) (2015)
