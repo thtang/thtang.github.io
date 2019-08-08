@@ -17,4 +17,4 @@ Given the title of a fake news article A and the title of a coming news article 
 * disagreed: B refutes the fake news in A
 * unrelated: B is unrelated to A
 
-<img src='/images/WSDM_result.png' width='500'>
+<img src='/images/WSDM_result.png' width='600'>
