@@ -35,12 +35,17 @@ Work experience
   
 Skills
 ======
-* Python 
-* R 
-* Simulation
-* Deep learning for Natural Language Processing
-* Deep learning for Computer Vision
-* Information Retrieval
+* Programming Language:
+  * Python
+  * R
+
+* Research:
+ * Deep learning for Natural Language Processing
+ * Deep learning for Computer Vision
+
+Hobby: 
+  * Simulation
+  * Information Retrieval
 
 Publications
 ======
