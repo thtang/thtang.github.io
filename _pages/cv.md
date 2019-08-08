@@ -33,12 +33,11 @@ Work experience
   
 Skills
 ======
-* Python 1
-* R 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Simulation 3
+* Python 
+* R 
+* Simulation
+* Deep learning for Natural Language Processing
+* Deep learning for Computer Vision
 
 Publications
 ======
