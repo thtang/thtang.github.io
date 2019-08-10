@@ -14,4 +14,5 @@ Given a real-world image containing one beauty or personal care item (some sampl
 
 Paper: [[**link**]](https://thtang.github.io/files/CROSS_DOMAIN_BEAUTY_AND_PERSONAL_CARE_PRODUCT_RETRIEVAL.pdf)
 
-<img src='/images/beauty_ai2.png'>
+# Result:
+<img src='/images/beauty_ai2.png' width="550">
