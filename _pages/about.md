@@ -27,4 +27,4 @@ About me
 
 [Curriculum Vitae](http://thtang.github.io/files/Jason_Tang_Resume.pdf) [Latest update: 2019/08] 
 
-Contact me: thtang@nlg.csie.ntu.edu.tw
+Contact me: thtang [at] nlg.csie.ntu.edu.tw
