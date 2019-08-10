@@ -1,6 +1,6 @@
 ---
 title: "Cross-domain Beauty and Personal Care Product Retrieval"
-excerpt: "Cross-domain image retrieval is a challenging problem due to the data variations between the real-world images and advertisement images. In this work, we consider four state-of-the-art deep learning based model to extract the high-level features combining with four feature pooling strategies. Different from previous works, we further investigate the possibility of integrating the classical feature descriptors. A dataset containing half a million images of beauty and care products (Perfect-500k) is utilized for our experiments. The experimental results prove that our proposed hybrid framework can improve the mAP@7 between 3% and 10% in contrast with retrieval methods only utilizing deep features. Product pictures from different domains are show in (a) and (b) below. <br/><img src='/images/beauty_ai.png'>"
+excerpt: "Cross-domain image retrieval is a challenging problem due to the data variations between the real-world images and advertisement images. In this work, we consider four state-of-the-art deep learning based model to extract the high-level features combining with four feature pooling strategies. Different from previous works, we further investigate the possibility of integrating the classical feature descriptors. A dataset containing half a million images of beauty and care products (Perfect-500k) is utilized for our experiments. The experimental results prove that our proposed hybrid framework can improve the mAP@7 between 3% and 10% in contrast with retrieval methods only utilizing deep features. Product pictures from different domains are show in (a) and (b) below. <br/><img src='/images/beauty_ai.png' width="550">"
 collection: portfolio
 ---
 # Background:
@@ -15,4 +15,4 @@ Given a real-world image containing one beauty or personal care item (some sampl
 Paper: [[**link**]](https://thtang.github.io/files/CROSS_DOMAIN_BEAUTY_AND_PERSONAL_CARE_PRODUCT_RETRIEVAL.pdf)
 
 # Result:
-<img src='/images/beauty_ai2.png' width="550">
+<img src='/images/beauty_ai2.png'>
