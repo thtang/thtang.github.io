@@ -29,7 +29,7 @@ About me
 <img src='/images/Emblem72.jpg' width='100'>
 <!-- <img src='/images/sign2-032a.png' width='100'> -->
 
-```Python``` ```Deep learning``` ```Natural Language Processing``` ```Simulation``` ```Information Retrieval``` 
+```Python```  ```Deep learning```  ```Natural Language Processing```  ```Simulation```  ```Information Retrieval``` 
 
 [Curriculum Vitae](http://thtang.github.io/files/Jason_Tang_Resume.pdf) [Latest update: 2019/08] 
 
