@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-## Baby Brother 
+## All idiot
 
-Son: I want a baby brother！
+Teacher: All idiots stand up.
 
-Mum: Your dad is overseas. When he comes back, we will talk over it. 
+A boy stands up.
 
-Son: Why don’t you give him a surprise?
+Teacher: So you are an idiot?
+
+Boy: No. I can’t bear your standing alone Sir. 
 
 About me
 ======
