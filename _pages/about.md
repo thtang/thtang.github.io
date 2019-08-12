@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-## All idiot
-
+All idiot
+======
 Teacher: All idiots stand up.
 
 A boy stands up.
