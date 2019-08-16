@@ -15,5 +15,7 @@ Taiwan is considered as a small island comparing to her population. Besides, wit
 To begin with, we explored the data and chose six parking lots based on their use. In addition, basically, the time series of those parking lots has no trend but seasonality. Then we have tried many forecasting models in order to obtain the most suitable output for our value-added services. We have provided the outcomes with point values and in range of forecasted values. In terms of the performance, our models can capture the pattern of each different type of parking lots and provide a useful forecasting. For more information, please refer to the detailed report below.
 
 Project site: [[**link**]](https://www.galitshmueli.com/data-mining-project/forecasting-parking-availability-providing-value-added-services-customers)
+
 PPT: [[**link**]](https://www.galitshmueli.com/sites/galitshmueli.com/files/Parking%20Lot%20Forecasting%20PPT.pdf)
+
 Report: [[**link**]](https://www.galitshmueli.com/sites/galitshmueli.com/files/Parking%20Lot%20Forecasting.pdf)
