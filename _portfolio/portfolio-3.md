@@ -29,4 +29,5 @@ The ground truth for this subtask was created using manual annotation.
 
 * Paper: [[**link**]](http://ceur-ws.org/Vol-2125/paper_124.pdf)
 * Poster: [[**link**]](https://thtang.github.io/files/CLEF_poster.pdf)
+
 <img src='/images/CLEF_result.png'>
