@@ -31,6 +31,6 @@ About me
 
 ```Python```  ```Deep learning```  ```Natural Language Processing```  ```Simulation```  ```Information Retrieval``` 
 
-[Curriculum Vitae](http://thtang.github.io/files/Jason_Tang_Resume.pdf) [Latest update: 2019/08] 
+[Curriculum Vitae](http://thtang.github.io/files/Jason_Tang_Resume.pdf) [Latest update: 2020/02] 
 
 Contact me: thtang [at] nlg.csie.ntu.edu.tw
