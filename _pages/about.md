@@ -8,15 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-All idiot
-======
-Teacher: All idiots stand up.
 
-A boy stands up.
-
-Teacher: So you are an idiot?
-
-Boy: No. I can’t bear your standing alone Sir. 
 
 About me
 ======
